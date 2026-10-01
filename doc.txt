@@ -1,0 +1,169 @@
+﻿Jerome — 2-Day Real Estate Hybrid Sprint Registration Page Copy Modeled on jeromemaldonado.com/optin-page-6929 structure. ASD-STE100 compliant. No em dashes. No earnings claims. No "no replay" or seat-cap claim.
+
+
+[1a: Top Bar Eyebrow] FREE LIVE TRAINING | THURSDAY OCT 8 + FRIDAY OCT 9 @ 7:00 AM PT | LIVE ON ZOOM
+
+
+[1b: Hero Eyebrow] 100% FREE LIVE TRAINING
+
+
+[1c: Hero Headline] Build One Home While You Set Up A Small Apartment Complex: The 2-Day Hybrid Sprint
+
+
+[1d: Date Label] DATE
+
+
+[1e: Date Value] Thursday, October 8 + Friday, October 9
+
+
+[1f: Time Label] TIME
+
+
+[1g: Time Value] 7:00 AM PT Both Days
+
+
+[1h: Where Label] WHERE
+
+
+[1i: Where Value] Live on Zoom
+
+
+[1j: Format Label] FORMAT
+
+
+[1k: Format Value] About 2.5 Hours Each Day
+
+
+[1l: Primary CTA Button] Yes — Claim My Free Seat →
+
+
+[1m: Under-CTA Trust Line] It is 100% free to sign up.
+
+
+[2a: Host Eyebrow] JEROME MALDONADO
+
+
+[2b: Host Role Label] YOUR HOST
+
+
+[2c: Stat 1 Value] $600M+
+
+
+[2d: Stat 1 Label] MULTIFAMILY OWNED
+
+
+[2e: Stat 2 Value] 700+
+
+
+[2f: Stat 2 Label] HOMES BUILT AND SOLD AT A PROFIT
+
+
+[2g: Stat 3 Value] 2 Days
+
+
+[2h: Stat 3 Label] LIVE WITH JEROME
+
+
+[2i: Stat 4 Value] Free
+
+
+[2j: Stat 4 Label] COST TO ATTEND
+
+
+[3a: Section Headline] What You Will Learn In 2 Days
+
+
+[3b: Day 1 Lead-In] Day 1: One Ground-Up Single-Family Build
+
+
+[3c: Day 1 Bullet 1] How to underwrite a home so you build it at a profit.
+
+
+[3d: Day 1 Bullet 2] The 12-step build process from land to sale.
+
+
+[3e: Day 1 Bullet 3] Banking trigger points: how to get the bank to pay for the land and the build.
+
+
+[3f: Day 1 Bullet 4] How to find the land in the right market.
+
+
+[3g: Day 1 Bullet 5] How to handle today's market and interest rates.
+
+
+[3h: Day 2 Lead-In] Day 2: Scale Into Small Multifamily
+
+
+[3i: Day 2 Bullet 1] Build one home while you entitle one small apartment complex at the same time.
+
+
+[3j: Day 2 Bullet 2] A 12-unit underwriting example.
+
+
+[3k: Day 2 Bullet 3] Cash flow and long-term equity from a stabilized small multifamily asset.
+
+
+[3l: Day 2 Bullet 4] The path from one home to a small apartment complex.
+
+
+[3m: Day 2 Bullet 5] Live Q&A. Ask Jerome anything about building for profit.
+
+
+[3n: Mid-Page CTA Button] Yes — Claim My Free Seat →
+
+
+[4a: Host Section Eyebrow] YOUR HOST
+
+
+[4b: Host Name] Jerome Maldonado
+
+
+[4c: Host Bio] Join 34-year real estate veteran Jerome Maldonado for 2 days of live training. Jerome has built over 700 homes and sold every one at a profit. He owns over $600M of multifamily personally. He leads a community of about 3,400 builders in 228 metro areas. In 2 days he gives you his exact ground-up and small-multifamily plan so you can start on your first build.
+
+
+[4d: Host Stat 1 Value] $600M+
+
+
+[4e: Host Stat 1 Label] MULTIFAMILY OWNED
+
+
+[4f: Host Stat 2 Value] 700+
+
+
+[4g: Host Stat 2 Label] HOMES BUILT AND SOLD AT A PROFIT
+
+
+[4h: Host Stat 3 Value] 3,400
+
+
+[4i: Host Stat 3 Label] BUILDERS IN THE COMMUNITY
+
+
+[4j: Host Stat 4 Value] 34
+
+
+[4k: Host Stat 4 Label] YEARS SELF-EMPLOYED
+
+
+[5a: Urgency Headline Line 1] Two Dates.
+
+
+[5b: Urgency Headline Line 2] One Live Training.
+
+
+[5c: Urgency Body] This event is live on Zoom on October 8 and October 9 only. Save your seat today so you are in the room on Day 1.
+
+
+[5d: Final CTA Button] Make Sure You Save Your Seat Here →
+
+
+[6a: Event Footer Line] THURSDAY OCT 8 + FRIDAY OCT 9 · 7:00 AM PT · FREE ON ZOOM
+
+
+[6b: Last-Chance Button] Get Started
+
+
+[7a: Compliance Disclaimer] Disclaimer: Jerome Maldonado and Zinra LLC are not making claims to the numbers above. These are simple theoretical examples and each individual's success depends on their willingness to learn and their individual capabilities. Results will vary from person to person. Results are not guaranteed.
+
+
+[7b: Legal Entity] ©2026 Zinra, LLC DBA: JeromeMaldonado.com — All Rights Reserved. Privacy Policy | Terms & Conditions. PO Box 10218 Albuquerque NM 87184, United States of America. (505) 305-1513 | info@jeromemaldonado.com
